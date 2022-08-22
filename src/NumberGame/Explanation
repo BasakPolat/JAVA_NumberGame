@@ -1,0 +1,8 @@
+
+The computer randomly generates four-digit numbers with different digits.
+To find this number, a four-digit number with different digits is entered.
+The computer compares the digits of these two numbers,
+It returns with + and - values.
++ <--> the number of numbers whose location is correctly known,
+- <--> shows the number of numbers whose location is known incorrectly.
+Keep entering numbers until +4.
